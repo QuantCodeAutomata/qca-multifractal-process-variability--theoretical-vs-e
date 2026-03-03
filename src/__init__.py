@@ -1,0 +1,1 @@
+"""Multifractal analysis package."""
